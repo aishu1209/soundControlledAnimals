@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+background-color:rgb(198, 155, 247)
+}
+
+.header_div{
+    background-color: rgb(186, 121, 248);
+    
+}
+
+button{
+    width: 150;
+    height: 35;
+    border-radius: 100;
+}
