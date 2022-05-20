@@ -12,4 +12,27 @@ button{
     width: 150;
     height: 35;
     border-radius: 100;
+    letter-spacing: 2mm;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 25px;
 }
+
+h2{
+    font-family: 'Yellowtail', cursive;
+}
+
+p{
+    font-family: 'Koulen', cursive;
+    font-size: 20px;
+}
+
+#copy_right_footer{
+    background-color: rgb(247, 206, 247);
+    width: 1500px;
+    
+    font-size: 30px;
+    text-shadow: 5px 5px 5px gray;
+    position: fixed;
+    bottom: 0;
+}
+
